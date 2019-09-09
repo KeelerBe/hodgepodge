@@ -1,3 +1,4 @@
+# shopping-cart
 Shopping cart (under construction) React, Redux, Firebase
 
 ![screenshot](screenshot.jpg)
