@@ -1,9 +1,9 @@
-# shopping-cart
-Shopping cart (under construction) React, Redux, Firebase
+# A React Shopping Cart
 
+## Screenshot and demo
 ![screenshot](screenshot.jpg)
 
-[Demo main](https://hodge-podge.herokuapp.com/)\
-[Demo admin](https://hodge-podge.herokuapp.com/admin)\
-[Demo signup](https://hodge-podge.herokuapp.com/signup)\
-[Demo admin-signup](https://hodge-podge.herokuapp.com/admin-signup)
+[Main](https://hodge-podge.herokuapp.com/)\
+[Admin](https://hodge-podge.herokuapp.com/admin)\
+[Signup](https://hodge-podge.herokuapp.com/signup)\
+[Admin Signup](https://hodge-podge.herokuapp.com/admin-signup)
